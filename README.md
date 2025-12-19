@@ -1,4 +1,4 @@
-#InclusiveElectronProtonGrids
+# InclusiveElectronProtonGrids
 
 Analysis code, analysis note, and plotting scripts for the creation of cross section value and uncertainty grids from campaign pseudodata.
 
